@@ -5,7 +5,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook.battery.metrics.composite.def;
+package com.facebook.battery.sample.def;
 
 import com.facebook.battery.metrics.core.SystemMetrics;
 import com.facebook.battery.metrics.core.SystemMetricsCollector;

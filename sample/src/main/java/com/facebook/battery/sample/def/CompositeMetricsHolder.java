@@ -5,15 +5,17 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook.battery.metrics.composite.def;
+package com.facebook.battery.sample.def;
 
 import androidx.collection.SimpleArrayMap;
+
 import com.facebook.battery.metrics.composite.CompositeMetrics;
 import com.facebook.battery.metrics.composite.CompositeMetricsCollector;
 import com.facebook.battery.metrics.core.SystemMetrics;
 import com.facebook.battery.metrics.core.SystemMetricsCollector;
 import com.facebook.battery.reporter.composite.CompositeMetricsReporter;
 import com.facebook.battery.serializer.composite.CompositeMetricsSerializer;
+
 import java.util.ArrayList;
 import java.util.List;
 

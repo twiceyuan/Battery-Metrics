@@ -11,11 +11,11 @@ The library helps instrument hardware utilization to be able to understand how t
 
 ## Adding BatteryMetrics
 
-Add `jcenter` to your repositories –
+Add `mavenCentral` to your repositories –
 
 ```groovy
 repositories {
-  jcenter()
+  mavenCentral()
 }
 ```
 
